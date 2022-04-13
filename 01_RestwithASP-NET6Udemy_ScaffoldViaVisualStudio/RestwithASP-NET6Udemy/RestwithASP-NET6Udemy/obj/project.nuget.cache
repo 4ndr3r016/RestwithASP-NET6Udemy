@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydrGZPPrJ1hDMGvOqNPlbi8edmzVeeddNCaAllUquuMPQ9d+qf6StANuTDuLEKG3AKuSuuNy428TZ6mmip8FpQ==",
+  "success": true,
+  "projectFilePath": "D:\\ESTUDOS REST\\RestWithASP-NET6\\RestwithASP-NET\\RestwithASP-NET6Udemy\\01_RestwithASP-NET6Udemy_ScaffoldViaVisualStudio\\RestwithASP-NET6Udemy\\RestwithASP-NET6Udemy\\RestwithASP-NET6Udemy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre.rodrigues\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\andre.rodrigues\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\andre.rodrigues\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\andre.rodrigues\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\andre.rodrigues\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\andre.rodrigues\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
